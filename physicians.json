@@ -1,0 +1,122 @@
+[
+  {
+    "physician_id": 25000,
+    "first_name": "Mark",
+    "last_name": "Jones",
+    "network_status": "IN NETWORK"
+  },
+  {
+    "physician_id": 25001,
+    "first_name": "Austin",
+    "last_name": "Smith",
+    "network_status": "OUT OF NETWORK"
+  },
+  {
+    "physician_id": 25002,
+    "first_name": "Chris",
+    "last_name": "Miller",
+    "network_status": "OUT OF NETWORK"
+  },
+  {
+    "physician_id": 25003,
+    "first_name": "Evan",
+    "last_name": "Davis",
+    "network_status": "IN NETWORK"
+  },
+  {
+    "physician_id": 25004,
+    "first_name": "Gina",
+    "last_name": "Wilson",
+    "network_status": "IN NETWORK"
+  },
+  {
+    "physician_id": 25005,
+    "first_name": "Tory",
+    "last_name": "Jackson",
+    "network_status": "IN NETWORK"
+  },
+  {
+    "physician_id": 25006,
+    "first_name": "Mina",
+    "last_name": "Thompson",
+    "network_status": "IN NETWORK"
+  },
+  {
+    "physician_id": 25007,
+    "first_name": "Ralph",
+    "last_name": "Allen",
+    "network_status": "OUT OF NETWORK"
+  },
+  {
+    "physician_id": 25008,
+    "first_name": "Danielle",
+    "last_name": "Harris",
+    "network_status": "OUT OF NETWORK"
+  },
+  {
+    "physician_id": 25009,
+    "first_name": "John",
+    "last_name": "Lopez",
+    "network_status": "OUT OF NETWORK"
+  },
+  {
+    "physician_id": 25010,
+    "first_name": "Stacy",
+    "last_name": "Carter",
+    "network_status": "IN NETWORK"
+  },
+  {
+    "physician_id": 25011,
+    "first_name": "Mitch",
+    "last_name": "Moore",
+    "network_status": "IN NETWORK"
+  },
+  {
+    "physician_id": 25012,
+    "first_name": "Scott",
+    "last_name": "Robinson",
+    "network_status": "IN NETWORK"
+  },
+  {
+    "physician_id": 25013,
+    "first_name": "Brittany",
+    "last_name": "Wright",
+    "network_status": "OUT OF NETWORK"
+  },
+  {
+    "physician_id": 25014,
+    "first_name": "Thomas",
+    "last_name": "Lee",
+    "network_status": "IN NETWORK"
+  },
+  {
+    "physician_id": 25015,
+    "first_name": "Evaline",
+    "last_name": "Clark",
+    "network_status": "OUT OF NETWORK"
+  },
+  {
+    "physician_id": 25016,
+    "first_name": "Gary",
+    "last_name": "Lewis",
+    "network_status": "IN NETWORK"
+  },
+  {
+    "physician_id": 25017,
+    "first_name": "Rosemary",
+    "last_name": "Walker",
+    "network_status": "OUT OF NETWORK"
+  },
+  {
+    "physician_id": 25018,
+    "first_name": "Philip",
+    "last_name": "Young",
+    "network_status": "IN NETWORK"
+  },
+  {
+    "physician_id": 25019,
+    "first_name": "Bill",
+    "last_name": "Torres",
+    "network_status": "IN NETWORK"
+  }
+]

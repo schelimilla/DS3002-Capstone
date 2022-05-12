@@ -1,0 +1,212 @@
+[
+  {
+    "patient_id": 100,
+    "date_of_visit": "2007-01-23T00:00:00",
+    "first_name": "James",
+    "last_name": "Wilson",
+    "zip_code": 68001,
+    "doctor_id": 25001,
+    "invoice_id": 10025001,
+    "date_of_visit_key": 20070123
+  },
+  {
+    "patient_id": 101,
+    "date_of_visit": "2020-08-29T00:00:00",
+    "first_name": "Alex",
+    "last_name": "Smith",
+    "zip_code": 20588,
+    "doctor_id": 25010,
+    "invoice_id": 10120588,
+    "date_of_visit_key": 20200829
+  },
+  {
+    "patient_id": 102,
+    "date_of_visit": "2013-05-01T00:00:00",
+    "first_name": "Jack",
+    "last_name": "Taylor",
+    "zip_code": 99950,
+    "doctor_id": 25009,
+    "invoice_id": 10225009,
+    "date_of_visit_key": 20130501
+  },
+  {
+    "patient_id": 103,
+    "date_of_visit": "2002-04-20T00:00:00",
+    "first_name": "Ben",
+    "last_name": "Lee",
+    "zip_code": 24658,
+    "doctor_id": 25000,
+    "invoice_id": 10325000,
+    "date_of_visit_key": 20020420
+  },
+  {
+    "patient_id": 104,
+    "date_of_visit": "2004-12-25T00:00:00",
+    "first_name": "Eliza",
+    "last_name": "Perez",
+    "zip_code": 15295,
+    "doctor_id": 25017,
+    "invoice_id": 10425017,
+    "date_of_visit_key": 20041225
+  },
+  {
+    "patient_id": 105,
+    "date_of_visit": "2012-06-02T00:00:00",
+    "first_name": "Jacob",
+    "last_name": "White",
+    "zip_code": 15251,
+    "doctor_id": 25009,
+    "invoice_id": 10525009,
+    "date_of_visit_key": 20120602
+  },
+  {
+    "patient_id": 106,
+    "date_of_visit": "2013-03-30T00:00:00",
+    "first_name": "Sam",
+    "last_name": "Harris",
+    "zip_code": 20419,
+    "doctor_id": 25010,
+    "invoice_id": 10625010,
+    "date_of_visit_key": 20130330
+  },
+  {
+    "patient_id": 107,
+    "date_of_visit": "2006-02-28T00:00:00",
+    "first_name": "Noah",
+    "last_name": "Sanchez",
+    "zip_code": 19065,
+    "doctor_id": 25012,
+    "invoice_id": 10725012,
+    "date_of_visit_key": 20060228
+  },
+  {
+    "patient_id": 108,
+    "date_of_visit": "2001-08-04T00:00:00",
+    "first_name": "Emily",
+    "last_name": "Lewis",
+    "zip_code": 20030,
+    "doctor_id": 25005,
+    "invoice_id": 10825005,
+    "date_of_visit_key": 20010804
+  },
+  {
+    "patient_id": 109,
+    "date_of_visit": "2007-07-22T00:00:00",
+    "first_name": "Lucas",
+    "last_name": "Robinson",
+    "zip_code": 92581,
+    "doctor_id": 25007,
+    "invoice_id": 10925007,
+    "date_of_visit_key": 20070722
+  },
+  {
+    "patient_id": 110,
+    "date_of_visit": "2001-01-01T00:00:00",
+    "first_name": "Olivia",
+    "last_name": "Young",
+    "zip_code": 92261,
+    "doctor_id": 25010,
+    "invoice_id": 11025010,
+    "date_of_visit_key": 20010101
+  },
+  {
+    "patient_id": 111,
+    "date_of_visit": "2004-10-15T00:00:00",
+    "first_name": "Liam",
+    "last_name": "Walker",
+    "zip_code": 19160,
+    "doctor_id": 25004,
+    "invoice_id": 11125004,
+    "date_of_visit_key": 20041015
+  },
+  {
+    "patient_id": 112,
+    "date_of_visit": "2016-11-30T00:00:00",
+    "first_name": "Ava",
+    "last_name": "King",
+    "zip_code": 30037,
+    "doctor_id": 25000,
+    "invoice_id": 11225000,
+    "date_of_visit_key": 20161130
+  },
+  {
+    "patient_id": 113,
+    "date_of_visit": "2009-08-07T00:00:00",
+    "first_name": "Emma",
+    "last_name": "Acree",
+    "zip_code": 81658,
+    "doctor_id": 25016,
+    "invoice_id": 11325016,
+    "date_of_visit_key": 20090807
+  },
+  {
+    "patient_id": 114,
+    "date_of_visit": "2000-04-13T00:00:00",
+    "first_name": "Lily",
+    "last_name": "Jones",
+    "zip_code": 42788,
+    "doctor_id": 25010,
+    "invoice_id": 11425010,
+    "date_of_visit_key": 20000413
+  },
+  {
+    "patient_id": 115,
+    "date_of_visit": "2018-12-03T00:00:00",
+    "first_name": "Logan",
+    "last_name": "Hall",
+    "zip_code": 48001,
+    "doctor_id": 25019,
+    "invoice_id": 11525019,
+    "date_of_visit_key": 20181203
+  },
+  {
+    "patient_id": 116,
+    "date_of_visit": "2005-07-31T00:00:00",
+    "first_name": "Owen",
+    "last_name": "Nelson",
+    "zip_code": 14925,
+    "doctor_id": 25013,
+    "invoice_id": 11625013,
+    "date_of_visit_key": 20050731
+  },
+  {
+    "patient_id": 117,
+    "date_of_visit": "2019-08-16T00:00:00",
+    "first_name": "Anthony",
+    "last_name": "Green",
+    "zip_code": 74966,
+    "doctor_id": 25002,
+    "invoice_id": 11725002,
+    "date_of_visit_key": 20190816
+  },
+  {
+    "patient_id": 118,
+    "date_of_visit": "2011-03-12T00:00:00",
+    "first_name": "Robert",
+    "last_name": "Baker",
+    "zip_code": 24658,
+    "doctor_id": 25016,
+    "invoice_id": 11825016,
+    "date_of_visit_key": 20110312
+  },
+  {
+    "patient_id": 119,
+    "date_of_visit": "2015-05-21T00:00:00",
+    "first_name": "Will",
+    "last_name": "Wright",
+    "zip_code": 20101,
+    "doctor_id": 25013,
+    "invoice_id": 11925013,
+    "date_of_visit_key": 20150521
+  },
+  {
+    "patient_id": null,
+    "date_of_visit": null,
+    "first_name": null,
+    "last_name": null,
+    "zip_code": null,
+    "doctor_id": null,
+    "invoice_id": null,
+    "date_of_visit_key": null
+  }
+]

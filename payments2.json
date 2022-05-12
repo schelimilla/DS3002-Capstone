@@ -1,0 +1,122 @@
+[
+  {
+    "invoice_id": 10025001,
+    "invoice_amount": 15600,
+    "patient_id": 100,
+    "payment_status": "NOT PAID"
+  },
+  {
+    "invoice_id": 10120510,
+    "invoice_amount": 401,
+    "patient_id": 101,
+    "payment_status": "PAID"
+  },
+  {
+    "invoice_id": 10225009,
+    "invoice_amount": 32760,
+    "patient_id": 102,
+    "payment_status": "NOT PAID"
+  },
+  {
+    "invoice_id": 10325000,
+    "invoice_amount": 350,
+    "patient_id": 103,
+    "payment_status": "PAID"
+  },
+  {
+    "invoice_id": 10425017,
+    "invoice_amount": 29657,
+    "patient_id": 104,
+    "payment_status": "NOT PAID"
+  },
+  {
+    "invoice_id": 10525009,
+    "invoice_amount": 98801,
+    "patient_id": 105,
+    "payment_status": "PAID"
+  },
+  {
+    "invoice_id": 10625010,
+    "invoice_amount": 2700,
+    "patient_id": 106,
+    "payment_status": "NOT PAID"
+  },
+  {
+    "invoice_id": 10725012,
+    "invoice_amount": 230,
+    "patient_id": 107,
+    "payment_status": "PAID"
+  },
+  {
+    "invoice_id": 10825005,
+    "invoice_amount": 760,
+    "patient_id": 108,
+    "payment_status": "NOT PAID"
+  },
+  {
+    "invoice_id": 10925007,
+    "invoice_amount": 28700,
+    "patient_id": 109,
+    "payment_status": "PAID"
+  },
+  {
+    "invoice_id": 11025010,
+    "invoice_amount": 25,
+    "patient_id": 110,
+    "payment_status": "PAID"
+  },
+  {
+    "invoice_id": 11125004,
+    "invoice_amount": 765,
+    "patient_id": 111,
+    "payment_status": "NOT PAID"
+  },
+  {
+    "invoice_id": 11225000,
+    "invoice_amount": 255,
+    "patient_id": 112,
+    "payment_status": "NOT PAID"
+  },
+  {
+    "invoice_id": 11325016,
+    "invoice_amount": 5090,
+    "patient_id": 113,
+    "payment_status": "PAID"
+  },
+  {
+    "invoice_id": 11425010,
+    "invoice_amount": 10,
+    "patient_id": 114,
+    "payment_status": "NOT PAID"
+  },
+  {
+    "invoice_id": 11525019,
+    "invoice_amount": 130,
+    "patient_id": 115,
+    "payment_status": "PAID"
+  },
+  {
+    "invoice_id": 11625013,
+    "invoice_amount": 10900,
+    "patient_id": 116,
+    "payment_status": "PAID"
+  },
+  {
+    "invoice_id": 11725002,
+    "invoice_amount": 20440,
+    "patient_id": 117,
+    "payment_status": "NOT PAID"
+  },
+  {
+    "invoice_id": 11825016,
+    "invoice_amount": 330,
+    "patient_id": 118,
+    "payment_status": "PAID"
+  },
+  {
+    "invoice_id": 11925013,
+    "invoice_amount": 12075,
+    "patient_id": 119,
+    "payment_status": "PAID"
+  }
+]

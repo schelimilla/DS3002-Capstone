@@ -1,0 +1,21 @@
+physician_id,first_name,last_name,network_status
+25000,Mark,Jones,IN NETWORK
+25001,Austin,Smith,OUT OF NETWORK
+25002,Chris,Miller,OUT OF NETWORK
+25003,Evan,Davis,IN NETWORK
+25004,Gina,Wilson,IN NETWORK
+25005,Tory,Jackson,IN NETWORK
+25006,Mina,Thompson,IN NETWORK
+25007,Ralph,Allen,OUT OF NETWORK
+25008,Danielle,Harris,OUT OF NETWORK
+25009,John,Lopez,OUT OF NETWORK
+25010,Stacy,Carter,IN NETWORK
+25011,Mitch,Moore,IN NETWORK
+25012,Scott,Robinson,IN NETWORK
+25013,Brittany,Wright,OUT OF NETWORK
+25014,Thomas,Lee,IN NETWORK
+25015,Evaline,Clark,OUT OF NETWORK
+25016,Gary,Lewis,IN NETWORK
+25017,Rosemary,Walker,OUT OF NETWORK
+25018,Philip,Young,IN NETWORK
+25019,Bill,Torres,IN NETWORK

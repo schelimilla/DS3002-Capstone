@@ -1,0 +1,142 @@
+[
+  {
+    "invoice_id": 10025001,
+    "invoice_amount": 15600,
+    "patient_id": 100,
+    "service_date_key": 20070123,
+    "doctor_id": 25001
+  },
+  {
+    "invoice_id": 10120510,
+    "invoice_amount": 401,
+    "patient_id": 101,
+    "service_date_key": 20200829,
+    "doctor_id": 25010
+  },
+  {
+    "invoice_id": 10225009,
+    "invoice_amount": 32760,
+    "patient_id": 102,
+    "service_date_key": 20130501,
+    "doctor_id": 25009
+  },
+  {
+    "invoice_id": 10325000,
+    "invoice_amount": 350,
+    "patient_id": 103,
+    "service_date_key": 20020420,
+    "doctor_id": 25000
+  },
+  {
+    "invoice_id": 10425017,
+    "invoice_amount": 29657,
+    "patient_id": 104,
+    "service_date_key": 20041225,
+    "doctor_id": 25017
+  },
+  {
+    "invoice_id": 10525009,
+    "invoice_amount": 98801,
+    "patient_id": 105,
+    "service_date_key": 20120602,
+    "doctor_id": 25009
+  },
+  {
+    "invoice_id": 10625010,
+    "invoice_amount": 2700,
+    "patient_id": 106,
+    "service_date_key": 20130330,
+    "doctor_id": 25010
+  },
+  {
+    "invoice_id": 10725012,
+    "invoice_amount": 230,
+    "patient_id": 107,
+    "service_date_key": 20060228,
+    "doctor_id": 25012
+  },
+  {
+    "invoice_id": 10825005,
+    "invoice_amount": 760,
+    "patient_id": 108,
+    "service_date_key": 20010804,
+    "doctor_id": 25005
+  },
+  {
+    "invoice_id": 10925007,
+    "invoice_amount": 28700,
+    "patient_id": 109,
+    "service_date_key": 20070722,
+    "doctor_id": 25007
+  },
+  {
+    "invoice_id": 11025010,
+    "invoice_amount": 25,
+    "patient_id": 110,
+    "service_date_key": 20010101,
+    "doctor_id": 25010
+  },
+  {
+    "invoice_id": 11125004,
+    "invoice_amount": 765,
+    "patient_id": 111,
+    "service_date_key": 20041015,
+    "doctor_id": 25004
+  },
+  {
+    "invoice_id": 11225000,
+    "invoice_amount": 255,
+    "patient_id": 112,
+    "service_date_key": 20161130,
+    "doctor_id": 25000
+  },
+  {
+    "invoice_id": 11325016,
+    "invoice_amount": 5090,
+    "patient_id": 113,
+    "service_date_key": 20090807,
+    "doctor_id": 25016
+  },
+  {
+    "invoice_id": 11425010,
+    "invoice_amount": 10,
+    "patient_id": 114,
+    "service_date_key": 20000413,
+    "doctor_id": 25010
+  },
+  {
+    "invoice_id": 11525019,
+    "invoice_amount": 130,
+    "patient_id": 115,
+    "service_date_key": 20181203,
+    "doctor_id": 25019
+  },
+  {
+    "invoice_id": 11625013,
+    "invoice_amount": 10900,
+    "patient_id": 116,
+    "service_date_key": 20050731,
+    "doctor_id": 25013
+  },
+  {
+    "invoice_id": 11725002,
+    "invoice_amount": 20440,
+    "patient_id": 117,
+    "service_date_key": 20190816,
+    "doctor_id": 25002
+  },
+  {
+    "invoice_id": 11825016,
+    "invoice_amount": 330,
+    "patient_id": 118,
+    "service_date_key": 20110312,
+    "doctor_id": 25016
+  },
+  {
+    "invoice_id": 11925013,
+    "invoice_amount": 12075,
+    "patient_id": 119,
+    "service_date_key": 20150521,
+    "doctor_id": 25013
+  }
+]
